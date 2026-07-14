@@ -89,69 +89,80 @@ The objective of this project was to gain hands-on experience with:
 ---
 
 ## Project Screenshots
-## Project Screenshots
 
 ### Project Folder Structure
-![Folder Structure](Screenshots/Folder_Structure.png)
+![Folder Structure](Information%20Security%20Program%20Administration%20Lab/Screenshots/Folder_Structure.png)
 
 ---
 
 ### Company Profile
-![Company Profile](Templates/02_Company_Profile.png)
+![Company Profile](Information%20Security%20Program%20Administration%20Lab/Templates/02_Company%20Profile.png)
 
 ---
 
 ### Information Security Policy
-![Information Security Policy](Policies/Information_Security_Policy.png)
+![Information Security Policy](Information%20Security%20Program%20Administration%20Lab/Policies/Information_Security_Policy.png)
 
 ### Password Policy
-![Password Policy](Policies/Password_Policy.png)
+![Password Policy](Information%20Security%20Program%20Administration%20Lab/Policies/Password_Policy.png)
 
 ### Access Control Policy
-![Access Control Policy](Policies/Access_Control_Policy.png)
+![Access Control Policy](Information%20Security%20Program%20Administration%20Lab/Policies/Access_Control_Policy.png)
+
+### Incident Response Policy
+![Incident Response Policy](Information%20Security%20Program%20Administration%20Lab/Policies/Incident_Response_Policy.png)
+
+### Data Classification Policy
+![Data Classification Policy](Information%20Security%20Program%20Administration%20Lab/Policies/Data_Classification_Policy.png)
+
+### Acceptable Use Policy
+![Acceptable Use Policy](Information%20Security%20Program%20Administration%20Lab/Policies/Acceptable_Use_Policy.png)
+
+### Change Management Policy
+![Change Management Policy](Information%20Security%20Program%20Administration%20Lab/Policies/Change_Management_Policy.png)
 
 ---
 
 ### Asset Inventory
-![Asset Inventory](Asset%20Management/Asset_Inventory.png)
+![Asset Inventory](Information%20Security%20Program%20Administration%20Lab/Asset%20Management/Asset_Inventory.png)
 
 ---
 
 ### Risk Register
-![Risk Register](Risk%20Management/Risk%20Register.png)
+![Risk Register](Information%20Security%20Program%20Administration%20Lab/Risk%20Management/Risk%20Register.png)
 
 ### Corrective Action Tracker
-![Corrective Action Tracker](Risk%20Management/Corrective%20Action%20Tracker.png)
+![Corrective Action Tracker](Information%20Security%20Program%20Administration%20Lab/Risk%20Management/Corrective%20Action%20Tracker.png)
 
 ---
 
 ### Security Awareness Tracker
-![Training Tracker](Security%20Awareness/Training_Tracker.png)
+![Training Tracker](Information%20Security%20Program%20Administration%20Lab/Security%20Awareness/Training_Tracker.png)
 
 ---
 
 ### Compliance Dashboard
-![Compliance Dashboard](Compliance%20Dashboards/Compliance_Dashboard.png)
+![Compliance Dashboard](Information%20Security%20Program%20Administration%20Lab/Compliance%20Dashboards/Compliance_Dashboard.png)
 
 ---
 
 ### Drata Control Mapping
-![Drata Control Mapping Controls](Compliance%20Management/Drata_Control_Mapping_Control.png)
+![Drata Control Mapping Controls](Information%20Security%20Program%20Administration%20Lab/Compliance%20Management/Drata_Control_Mapping_Control_Inventory.png)
 
-![Drata Control Mapping Evidence](Compliance%20Management/Drata_Control_Mapping_Evidence.png)
+![Drata Control Mapping Evidence](Information%20Security%20Program%20Administration%20Lab/Compliance%20Management/Drata_Control_Mapping_Evidence_Tracker.png)
 
-![Drata Control Mapping Framework Mapping](Compliance%20Management/Drata_Control_Mapping_Framework.png)
+![Drata Control Mapping Framework Mapping](Information%20Security%20Program%20Administration%20Lab/Compliance%20Management/Drata_Control_Mapping_Framework_Mapping.png)
 
 ---
 
 ### Audit Evidence Examples
 
-![Annual Access Review](Audit%20Evidence/Annual_Access_Review.png)
+![Annual Access Review](Information%20Security%20Program%20Administration%20Lab/Audit%20Evidence/Annual_Access_Review.png)
 
-![Annual Security Awareness Training](Audit%20Evidence/Annual_Security_Awareness_Training.png)
+![Annual Security Awareness Training](Information%20Security%20Program%20Administration%20Lab/Audit%20Evidence/Annual_Security_Awareness_Training_Report.png)
 
-![Incident Response Exercise](Audit%20Evidence/Incident_Response_Tabletop_Exercise.png)
+![Incident Response Exercise](Information%20Security%20Program%20Administration%20Lab/Audit%20Evidence/Incident_Response_Tabletop_Exercise.png)
 
-![Vendor Risk Assessment](Audit%20Evidence/Vendor_Risk_Assessment.png)
+![Vendor Risk Assessment](Information%20Security%20Program%20Administration%20Lab/Audit%20Evidence/Vendor_Risk_Assessment.png)
 
-![Vulnerability Scan Report](Audit%20Evidence/Vulnerability_Scan_Report.png)
+![Vulnerability Scan Report](Information%20Security%20Program%20Administration%20Lab/Audit%20Evidence/Vulnerability_Scan_Report.png)
