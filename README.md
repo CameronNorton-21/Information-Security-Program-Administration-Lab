@@ -55,16 +55,6 @@ Responsibilities simulated:
 - Monitoring security awareness requirements
 - Supporting management reporting
 
-The project models the responsibilities of an **Information Security Program Analyst / Junior ISSO**, including:
-
-- Information security governance
-- Security policy development
-- Risk management
-- Compliance monitoring
-- Audit preparation
-- Evidence collection
-- Security awareness management
-- Control mapping and reporting
 
 Security documentation and processes were aligned with industry-recognized frameworks, including:
 
