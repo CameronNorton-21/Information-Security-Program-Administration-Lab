@@ -89,3 +89,20 @@ The objective of this project was to gain hands-on experience with:
 ---
 
 ## Project Screenshots
+### Folder Structure
+![Folder Structure](Screenshots/01_Folder_Structure.png)
+
+### Information Security Policy
+![Information Security Policy](Screenshots/Policies/Information_Security_Policy.png)
+
+### Password Policy
+![Password Policy](Screenshots/Policies/Password_Policy.png)
+
+### Risk Register
+![Risk Register](Screenshots/05_Risk_Register.png)
+
+### Compliance Dashboard
+![Dashboard](Screenshots/06_Compliance_Dashboard.png)
+
+### Management Review Presentation
+![Management Review](Screenshots/07_Management_Review.png)
