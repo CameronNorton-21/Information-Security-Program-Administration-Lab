@@ -203,7 +203,6 @@ This lifecycle represents how security teams continuously manage risk, maintain 
 
 - Microsoft Excel
 - Microsoft Word
-- Microsoft PowerPoint
 - Control Inventory Management
 - Evidence Tracking
 - Compliance Reporting
