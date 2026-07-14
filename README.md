@@ -89,20 +89,69 @@ The objective of this project was to gain hands-on experience with:
 ---
 
 ## Project Screenshots
-### Folder Structure
-![Folder Structure](Screenshots/01_Folder_Structure.png)
+## Project Screenshots
+
+### Project Folder Structure
+![Folder Structure](Screenshots/Folder_Structure.png)
+
+---
+
+### Company Profile
+![Company Profile](Templates/02_Company_Profile.png)
+
+---
 
 ### Information Security Policy
-![Information Security Policy](Screenshots/Policies/Information_Security_Policy.png)
+![Information Security Policy](Policies/Information_Security_Policy.png)
 
 ### Password Policy
-![Password Policy](Screenshots/Policies/Password_Policy.png)
+![Password Policy](Policies/Password_Policy.png)
+
+### Access Control Policy
+![Access Control Policy](Policies/Access_Control_Policy.png)
+
+---
+
+### Asset Inventory
+![Asset Inventory](Asset%20Management/Asset_Inventory.png)
+
+---
 
 ### Risk Register
-![Risk Register](Screenshots/05_Risk_Register.png)
+![Risk Register](Risk%20Management/Risk%20Register.png)
+
+### Corrective Action Tracker
+![Corrective Action Tracker](Risk%20Management/Corrective%20Action%20Tracker.png)
+
+---
+
+### Security Awareness Tracker
+![Training Tracker](Security%20Awareness/Training_Tracker.png)
+
+---
 
 ### Compliance Dashboard
-![Dashboard](Screenshots/06_Compliance_Dashboard.png)
+![Compliance Dashboard](Compliance%20Dashboards/Compliance_Dashboard.png)
 
-### Management Review Presentation
-![Management Review](Screenshots/07_Management_Review.png)
+---
+
+### Drata Control Mapping
+![Drata Control Mapping Controls](Compliance%20Management/Drata_Control_Mapping_Control.png)
+
+![Drata Control Mapping Evidence](Compliance%20Management/Drata_Control_Mapping_Evidence.png)
+
+![Drata Control Mapping Framework Mapping](Compliance%20Management/Drata_Control_Mapping_Framework.png)
+
+---
+
+### Audit Evidence Examples
+
+![Annual Access Review](Audit%20Evidence/Annual_Access_Review.png)
+
+![Annual Security Awareness Training](Audit%20Evidence/Annual_Security_Awareness_Training.png)
+
+![Incident Response Exercise](Audit%20Evidence/Incident_Response_Tabletop_Exercise.png)
+
+![Vendor Risk Assessment](Audit%20Evidence/Vendor_Risk_Assessment.png)
+
+![Vulnerability Scan Report](Audit%20Evidence/Vulnerability_Scan_Report.png)
