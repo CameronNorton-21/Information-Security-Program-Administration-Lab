@@ -1,4 +1,7 @@
 # Information Security Program Administration Lab
+**Project Type:** Governance, Risk, and Compliance (GRC) Portfolio Project  
+**Role Simulated:** Information Security Program Analyst / Junior ISSO  
+**Organization:** Sentinel Health Systems (Fictional Healthcare Software Company)
 
 ![GRC](https://img.shields.io/badge/Focus-GRC-blue)
 ![Framework](https://img.shields.io/badge/Framework-NIST%20CSF-green)
@@ -7,7 +10,7 @@
 ![Security](https://img.shields.io/badge/Security-Governance-blue)
 
 ---
-
+# Table of Contents
 - [Executive Summary](#executive-summary)
 - [Role Simulated](#role-simulated)
 - [Company Profile](#company-profile)
@@ -22,7 +25,9 @@
 - [Compliance & Framework Mapping](#compliance--framework-mapping)
 - [Risk Management Methodology](#risk-management-methodology)
 - [Audit Readiness Approach](#audit-readiness-approach)
+- [Repository Structure](#repository-structure)
 - [Project Outcomes](#project-outcomes)
+- [Security Metrics & Reporting](#security-metrics--reporting)
 - [Project Screenshots](#project-screenshots)
 - [Lessons Learned](#lessons-learned)
 - [Future Enhancements](#future-enhancements)
@@ -32,26 +37,7 @@
 
 # Executive Summary
 
-This project demonstrates the development and administration of a simulated **Information Security Management System (ISMS)** for **Sentinel Health Systems**, a fictional healthcare software organization. The completed project demonstrates the ability to support security governance activities from policy creation through control implementation, evidence collection, and compliance reporting.
-
-The project models the responsibilities of an **Information Security Program Analyst / Junior ISSO**, including:
-
-- Information security governance
-- Security policy development
-- Risk management
-- Compliance monitoring
-- Audit preparation
-- Evidence collection
-- Security awareness management
-- Control mapping and reporting
-
-Security documentation and processes were aligned with industry frameworks including:
-
-- NIST Cybersecurity Framework (CSF)
-- ISO 27001
-- SOC 2 security concepts
-
-The objective of this project was to demonstrate practical experience supporting an organization's security program lifecycle.
+This project demonstrates the development and administration of a simulated **Information Security Management System (ISMS)** for **Sentinel Health Systems**, a fictional healthcare software organization. The completed project demonstrates practical experience supporting security program activities, including policy creation, control implementation, evidence collection, and compliance reporting.
 
 ---
 
@@ -68,6 +54,25 @@ Responsibilities simulated:
 - Managing security policies
 - Monitoring security awareness requirements
 - Supporting management reporting
+
+The project models the responsibilities of an **Information Security Program Analyst / Junior ISSO**, including:
+
+- Information security governance
+- Security policy development
+- Risk management
+- Compliance monitoring
+- Audit preparation
+- Evidence collection
+- Security awareness management
+- Control mapping and reporting
+
+Security documentation and processes were aligned with industry-recognized frameworks, including:
+
+- NIST Cybersecurity Framework (CSF)
+- ISO 27001
+- SOC 2 security concepts
+
+The objective of this project was to demonstrate practical experience supporting an organization's security program lifecycle.
 
 ---
 
@@ -156,7 +161,7 @@ This project aligns security processes with the following industry frameworks:
 
 ## NIST Cybersecurity Framework (CSF)
 
-Used for organizing security activities across:
+Used to organize security activities across:
 
 - Identify
 - Protect
@@ -166,7 +171,7 @@ Used for organizing security activities across:
 
 ## ISO 27001
 
-Referenced for:
+Aligned with:
 
 - Information security governance
 - Risk management
@@ -175,7 +180,7 @@ Referenced for:
 
 ## SOC 2 Concepts
 
-Referenced for:
+Aligned with:
 
 - Security controls
 - Evidence collection
@@ -186,18 +191,19 @@ Referenced for:
 
 # Security Program Lifecycle
 
-The simulated ISMS follows a continuous security improvement lifecycle based on common GRC and information security management practices.
+The simulated ISMS follows a continuous improvement lifecycle based on common GRC and information security management practices.
 
 | Phase | Activities |
 |---|---|
-| Identify | Identify organizational assets, business requirements, and security risks |
+| Governance | Establish security policies, roles, responsibilities, and program objectives |
+| Identify | Inventory assets, define scope, and identify security risks |
 | Assess | Evaluate threats, vulnerabilities, likelihood, and business impact |
-| Implement | Develop policies, establish controls, and assign security responsibilities |
+| Implement | Develop security controls, policies, and procedures |
 | Validate | Collect evidence, perform reviews, and verify control effectiveness |
 | Monitor | Track compliance status, risks, and remediation activities |
 | Improve | Update security processes through continuous improvement |
 
-This lifecycle demonstrates how security teams manage risk and maintain an effective security program over time.
+This lifecycle represents how security teams continuously manage risk, maintain compliance readiness, and improve an organization's overall security posture.
 
 ---
 
@@ -207,9 +213,18 @@ This lifecycle demonstrates how security teams manage risk and maintain an effec
 
 - Microsoft Excel
 - Microsoft Word
-- GRC Control Management Methodology
+- Microsoft PowerPoint
 - Control Inventory Management
-- Evidence Tracking Processes
+- Evidence Tracking
+- Compliance Reporting
+
+## GRC Concepts Demonstrated
+
+- Control Mapping
+- Risk Tracking
+- Audit Preparation
+- Security Documentation Management
+- Compliance Monitoring
 
 ## Security Frameworks
 
@@ -226,7 +241,7 @@ This lifecycle demonstrates how security teams manage risk and maintain an effec
 
 ## Compliance Management Concepts
 
-This project uses a control management approach similar to modern GRC platforms, including:
+This project uses a control management approach commonly found within modern GRC platforms, including:
 
 - Control inventory management
 - Evidence tracking
@@ -270,6 +285,22 @@ This project includes the following security program artifacts:
 - Incident Response Exercise Documentation
 - Vendor Risk Assessment
 - Vulnerability Assessment Evidence
+
+---
+
+# Key Security Artifacts
+
+This project includes security documentation commonly maintained by GRC analysts and ISSOs:
+
+| Artifact | Purpose |
+|---|---|
+| Security Policies | Establish organizational security requirements |
+| Asset Inventory | Maintain visibility of organizational assets |
+| Risk Register | Track identified risks and remediation efforts |
+| Corrective Action Tracker | Monitor security improvements |
+| Compliance Dashboard | Provide leadership visibility into security posture |
+| Evidence Repository | Support audit and compliance activities |
+| Control Mapping Workbook | Demonstrate framework alignment |
 
 ---
 
@@ -342,6 +373,19 @@ Risk management artifacts include:
 
 ---
 
+# Repository Structure
+
+The repository is organized to represent a real-world security program documentation structure:
+
+- Policies → Security Governance Documentation
+- Asset Management → Organizational Asset Tracking
+- Risk Management → Risk Identification and Remediation
+- Security Awareness → Training and Awareness Monitoring
+- Compliance Management → Control Tracking and Evidence Management
+- Audit Evidence → Supporting Documentation for Security Reviews
+
+---
+
 # Project Outcomes
 
 Successfully developed:
@@ -363,16 +407,21 @@ The completed program provides leadership visibility into:
 
 ---
 
-# Repository Structure
 
-The repository is organized to represent a real-world security program documentation structure:
+# Security Metrics & Reporting
 
-- Policies → Security governance documentation
-- Asset Management → Organizational asset tracking
-- Risk Management → Risk identification and remediation
-- Security Awareness → Training and awareness monitoring
-- Compliance Management → Control tracking and evidence management
-- Audit Evidence → Supporting documentation for security reviews
+Security metrics were developed to provide leadership visibility into security program performance.
+
+Tracked metrics include:
+
+- Open vs. closed risks
+- Risk remediation progress
+- Security awareness completion rates
+- Compliance status
+- Control implementation progress
+- Audit readiness status
+
+These metrics support informed decision-making and allow leadership to monitor the effectiveness of the security program.
 
 ---
 
@@ -545,6 +594,8 @@ These enhancements represent how organizations mature their security programs ov
 # Disclaimer
 
 This project was created for educational and portfolio purposes.
+
+This project represents a simulated enterprise environment created to demonstrate security governance and compliance skills.
 
 All organizations, systems, policies, and data are fictional.
 
